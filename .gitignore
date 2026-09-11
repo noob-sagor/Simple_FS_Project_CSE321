@@ -1,0 +1,11 @@
+.DS_Store
+# Compiled executables
+simplefs_adder
+simplefs_builder
+
+# Disk images and data files
+*.img
+*.dat
+
+
+ 
